@@ -1,0 +1,63 @@
+ @font-face { font-family: LibreFranklin; src: url('LibreFranklin-VariableFont_wght.ttf'); } 
+
+body {
+	font-family: "LibreFranklin", system-ui, "Helvetica", sans-serif;
+	color: #49545c
+}
+
+hr {
+  border: 0.5px solid #6ab0d4;
+}
+
+img.logo {
+	width: 80%;
+	height: auto;
+	margin: auto;
+	display: block;
+}
+
+a {
+	color: #6ab0d4;
+}
+
+a:hover {
+	color: #2d378f
+}
+
+a.orange {
+	color: #f19e4b;
+	font-weight: bold
+}
+
+a.orange:hover {
+	color: #d1762c
+}
+
+a#home {
+	color: #333;
+	text-decoration: none;
+}
+
+a#home:hover {
+	color: #777
+}
+
+.main {
+	width: 70%;
+	margin: auto 
+}
+
+.small {
+	text-align: left;
+	font-size: smaller;
+	color: #86959f;
+}
+
+.motto {
+	text-align: center;
+	font-size: large;
+}
+
+.logo {
+	
+}
