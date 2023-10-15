@@ -10,7 +10,7 @@ hr {
 }
 
 img.logo {
-	width: 80%;
+	width: 400px;
 	height: auto;
 	margin: auto;
 	display: block;
@@ -26,7 +26,7 @@ a:hover {
 
 a.orange {
 	color: #f19e4b;
-	font-weight: bold
+	/* font-weight: bold */
 }
 
 a.orange:hover {
